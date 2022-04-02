@@ -1,0 +1,49 @@
+body
+{
+	background:rgb(252, 112, 61);
+	background:url(titled.png);
+	text-align: center;
+
+}
+
+h3 , label{
+	color:white;
+}
+
+	.P1 , .P2
+	{
+		background:black;
+		padding: 100px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#P1, #P2
+{
+	display: inline-block;
+	margin-left: 12px;
+
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+b{
+	margin-right: 200px;
+	font-weight: 900;
+}
